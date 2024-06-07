@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "93a3",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/50.jpeg",
+      "nombre": "Santiago",
+      "status": "alive",
+      "gender": "male"
+    },
+    {
+      "id": "9545",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "nombre": "Carla",
+      "status": "alive",
+      "gender": "male"
+    },
+    {
+      "id": "2407",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+      "nombre": "Carla",
+      "status": "alive",
+      "gender": "male"
+    },
+    {
+      "id": "21ad",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+      "nombre": "Arcade Alien",
+      "status": "unknown",
+      "gender": "Male"
+    },
+    {
+      "id": "501e",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "nombre": "Carla",
+      "status": "alive",
+      "gender": "Male"
+    },
+    {
+      "id": "dfef",
+      "imagen": "https://rickandmortyapi.com/api/character/avatar/57.jpeg",
+      "nombre": "Carla",
+      "status": "alive",
+      "gender": "male"
+    }
+  ]
+}

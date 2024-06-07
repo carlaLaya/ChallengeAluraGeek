@@ -1,0 +1,52 @@
+/* Estilos generales */
+/*header*/
+
+
+/*body*/
+body {
+    background-color: #3f4e5f;
+}
+.form-label {
+    color: #ffffff;
+}
+.container-custom {
+    font-size: 0.85rem;
+}
+.card-custom {
+    background-color: #3f4e5f;
+    color: #f9c81c;
+    max-width: 200px;
+}
+.form-container-custom {
+    background-color: #3f4e5f;
+    color: #ffffff;
+    max-width: 250px;
+}
+.form-label-custom {
+    color: #ffffff;
+}
+.card-custom img {
+    height: 120px;
+    object-fit: cover;
+}
+.navbar-brand-custom {
+    font-size: 1.2rem;
+}
+.display-6-custom {
+    font-size: 1.25rem;
+}
+.lead-custom {
+    font-size: 0.9rem;
+}
+.fade-in {
+    animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
